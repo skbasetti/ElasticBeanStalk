@@ -15,7 +15,7 @@ phases:
       - echo build
   post_build:
     commands:
-      - mv target/test-1.0.3-SNAPSHOT.jar ../.
+      - mv target/test-1.0.3-SNAPSHOT.jar test-1.0.3-SNAPSHOT.jar
 
 artifacts:
   files:
