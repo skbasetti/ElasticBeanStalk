@@ -19,4 +19,4 @@ phases:
 
 artifacts:
   files:
-    - target/test-1.0.2.jar
+    - target/test-1.0.3-SNAPSHOT.jar
