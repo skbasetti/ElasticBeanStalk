@@ -24,7 +24,7 @@ public class HelloWorldController {
 	}
 	
 	@GetMapping(path = "/demo")
-	public String WelcomeWorld() {
+	public String WelcomeDemo() {
 		return "SK Demo home";
 		
 	}
